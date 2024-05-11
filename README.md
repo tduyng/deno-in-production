@@ -14,9 +14,10 @@ This list is not exhaustive; rather, it aims to provide evidence of Deno's adopt
 
 - **Deno**:
 
-  - [Deno.com](https://deno.com/)
-  - [Fresh](https://fresh.deno.dev/)
-  - [Jsr.io](https://jsr.io/)
+  - [Deno.com](https://deno.com/) Deno website
+  - [Fresh](https://fresh.deno.dev/) The next-gen web framework
+  - [Jsr.io](https://jsr.io/) The open-source package registry for modern JavaScript and TypeScript
+  - [Lume.land](https://lume.land/) The fast & flexible static site generator for Deno
 
 - **Netlify**
 
