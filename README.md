@@ -22,6 +22,7 @@ This list is not exhaustive; rather, it aims to provide evidence of Deno's adopt
 - **Netlify**
 
   - [Netlify Edge Functions: A new serverless runtime powered by Deno](https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions/)
+  - [How Netlify used Deno Subhosting to build a successful edge functions product](https://deno.com/blog/netlify-subhosting)
 
 - **RxDB**
 
