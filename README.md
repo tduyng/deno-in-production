@@ -39,5 +39,7 @@ This list is not exhaustive; rather, it aims to provide evidence of Deno's adopt
 
 - **Supabase**:
   - [Supabase Functions on Deno Deploy](https://deno.com/blog/supabase-functions-on-deno-deploy)
+- **The Guardian**
+    - [How the Guardian uses Deno to audit accessibility and performance across their 2.7 million articles](https://deno.com/blog/guardian)
 
 <!-- Slack, Netlify, Github, Supabase, Sportify, Salesforce, Stripe, Bank of America, Indeed, Tencent -->
