@@ -7,6 +7,8 @@ This is a list of companies known to use Deno in their production systems, based
 This list is not exhaustive; rather, it aims to provide evidence of Deno's adoption in production environments for those who may doubt its usage by companies. The aim is not to index all, just whatever possible to give a fair idea.
 
 ## Technology Companies
+- **Cloudsmith**
+  - [Secure, efficient private npm registries with Cloudsmith and Deno](https://deno.com/blog/private-npm-registries-cloudsmith)
 
 - **Deco.cx**:
 
